@@ -45,11 +45,11 @@ body {
     align-items: center;
   }
   
-  .projects-section {
+  section {
     text-align: center;
   }
   
-  a.navlink {
+  a {
     color: white;
     text-decoration: none;
   }
