@@ -44,3 +44,13 @@ body {
   .projects-section {
     text-align: center;
   }
+  
+  a.navlink {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .project {
+    color: white;
+    text-decoration: none;
+  }
