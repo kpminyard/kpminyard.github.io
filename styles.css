@@ -6,6 +6,10 @@ body {
   h1 {
     font-size: 8em;
   }
+
+  h2 {
+      font-size: 4em;
+  }
   
   p {
     font-size: 3em;
