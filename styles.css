@@ -49,8 +49,34 @@ body {
     color: white;
     text-decoration: none;
   }
+
+  a.navlink:hover {
+      background: #220066;
+  }
   
   .project {
     color: white;
     text-decoration: none;
+  }
+
+  span:hover {
+      background: #220066;
+  }
+
+  .footer-text {
+      color: white;
+      text-decoration: none;
+      font-size: 1em;
+  }
+
+  @media (max-width: 28em) {
+    .nav {
+      justify-content: center;
+    }
+  }
+
+  @media (max-width: 28em) {
+      html {
+          font-size: 60%;
+      }
   }
